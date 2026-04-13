@@ -1,9 +1,1 @@
-```
-npm install readline-sync
-```
-```
-node payroll.js
-```
-```
-node grades.js
-```
+Info300 Javascript Assignment- Constantino
